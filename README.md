@@ -23,3 +23,12 @@ A simple Python-based cybersecurity tool that evaluates password strength and pr
 ```bash
 python password_analyzer.py
 
+
+
+Enter your password: password123
+
+Password Strength: Weak
+Suggestions:
+- Add uppercase letters
+- Add special characters
+
